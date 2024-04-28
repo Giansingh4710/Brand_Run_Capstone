@@ -1,0 +1,19 @@
+{
+  "name": "Brand Runner",
+  "short_name": "Brand Runner",
+  "description": "A Brand Running",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/jpg/nebula.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ],
+  "splash_pages": null,
+  "prefer_related_applications": false,
+  "related_applications": []
+}
